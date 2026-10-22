@@ -213,9 +213,3 @@ name = ("PUMP_A")
 status = ("정상")
 code = ("2025-01-15")
 print(name,"/"+status,"/"+code)
-
-print("실습3")
-# 코드 상태 가동시간(int) 점검일
-hours = 1200
-
-
